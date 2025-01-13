@@ -1711,8 +1711,8 @@ function OrionLib:MakeWindow(WindowConfig)
 	end  
 	
 	OrionLib:MakeNotification({
-		Name = "UI Library Upgrade",
-		Content = "Join Discord https://discord.gg/SSffWQFjA8",
+		Name = "Discord",
+		Content = "https://discord.gg/SSffWQFjA8",
 		Time = 5
 	})
 	
